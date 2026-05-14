@@ -1,0 +1,962 @@
+[
+  {
+    "id": "platymantis",
+    "scientific": "Platymantis corrugatus",
+    "common": "Corrugated Forest Frog",
+    "family": "Ceratobatrachidae",
+    "order": "Anura",
+    "habitat": "Primary and secondary rainforest floor, leaf litter",
+    "distribution": "Luzon Island, Philippines",
+    "conservation": "Least Concern",
+    "badgeColor": "positive",
+    "description": "A direct-developing frog found in the leaf litter of Philippine rainforests. It lays eggs on the ground that hatch directly into small frogs, bypassing a free-living tadpole stage.",
+    "model": "models/platymantis.glb",
+    "available": true,
+    "external_features": {
+      "dorsal": [
+        {
+          "label": "Dorsal Skin",
+          "description": "Strongly corrugated (ridged) skin surface, giving the species its common name.",
+          "point": [
+            0,
+            0.65,
+            0
+          ]
+        },
+        {
+          "label": "Snout",
+          "description": "Rounded and moderately projecting snout viewed from above.",
+          "point": [
+            0,
+            0.35,
+            0.95
+          ]
+        },
+        {
+          "label": "Interorbital Space",
+          "description": "Region between the eyes; slightly concave and narrower than the upper eyelid.",
+          "point": [
+            0,
+            0.58,
+            0.62
+          ]
+        },
+        {
+          "label": "Tympanum",
+          "description": "Circular external eardrum located just behind the eye; distinct and visible.",
+          "point": [
+            0.28,
+            0.44,
+            0.52
+          ]
+        }
+      ],
+      "ventral": [
+        {
+          "label": "Ventral Skin",
+          "description": "Granular texture on the belly surface; paler coloration compared to the dorsum.",
+          "point": [
+            0,
+            0.12,
+            0.05
+          ]
+        },
+        {
+          "label": "Throat",
+          "description": "Smooth to slightly granular; single internal vocal sac in males.",
+          "point": [
+            0,
+            0.22,
+            0.68
+          ]
+        },
+        {
+          "label": "Pectoral Region",
+          "description": "Chest area with fine granules; no glandular swellings present.",
+          "point": [
+            0.12,
+            0.16,
+            0.42
+          ]
+        }
+      ],
+      "limbs": [
+        {
+          "label": "Forelimbs",
+          "description": "Moderately robust; forearms relatively short compared to hindlimbs.",
+          "point": [
+            0.42,
+            0.18,
+            0.28
+          ]
+        },
+        {
+          "label": "Fingers",
+          "description": "Four fingers; unwebbed with slightly expanded discs at the tips for gripping leaf litter.",
+          "point": [
+            0.62,
+            0.02,
+            0.72
+          ]
+        },
+        {
+          "label": "Hindlimbs",
+          "description": "Well-developed for terrestrial locomotion; moderately long relative to body size.",
+          "point": [
+            0.52,
+            0.18,
+            -0.48
+          ]
+        },
+        {
+          "label": "Toes",
+          "description": "Five toes; basal webbing only; toe discs moderately expanded.",
+          "point": [
+            0.65,
+            0.02,
+            -0.82
+          ]
+        },
+        {
+          "label": "Subarticular Tubercles",
+          "description": "Rounded tubercles beneath the finger and toe joints; prominent and single.",
+          "point": [
+            0.55,
+            0.06,
+            -0.62
+          ]
+        }
+      ],
+      "other": [
+        {
+          "label": "Eye",
+          "description": "Large and prominent; horizontal pupil; golden-bronze iris with dark reticulation.",
+          "point": [
+            0.22,
+            0.54,
+            0.68
+          ]
+        },
+        {
+          "label": "Nostril",
+          "description": "Small, oval nostrils positioned near the tip of the snout.",
+          "point": [
+            0.06,
+            0.38,
+            0.92
+          ]
+        },
+        {
+          "label": "Canthus Rostralis",
+          "description": "Sharp ridge running from the nostril to the anterior corner of the eye.",
+          "point": [
+            0.14,
+            0.46,
+            0.8
+          ]
+        },
+        {
+          "label": "Parotoid Region",
+          "description": "No true parotoid glands; dorsolateral folds may be present as faint ridges.",
+          "point": [
+            0.32,
+            0.54,
+            0.38
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "ansoniamuelleri",
+    "scientific": "Ansonia muelleri",
+    "common": "Mueller's Slender Toad",
+    "family": "Bufonidae",
+    "order": "Anura",
+    "habitat": "Rocky streams in primary lowland and hill dipterocarp forest",
+    "distribution": "Borneo — Sarawak, Sabah (Malaysia), Brunei",
+    "conservation": "Least Concern",
+    "badgeColor": "positive",
+    "description": "A small, slender stream toad that clings to wet rocks in fast-flowing forest streams. Named after German herpetologist Ludwig Müller, it is recognised by its warty skin and long slender limbs.",
+    "model": "models/ansoniamuelleri.glb",
+    "available": true,
+    "external_features": {
+      "dorsal": [
+        {
+          "label": "Dorsal Skin",
+          "description": "Covered in numerous small warts and spinules; rough texture adapted to rocky stream habitats.",
+          "point": [
+            0,
+            0.6,
+            0
+          ]
+        },
+        {
+          "label": "Snout",
+          "description": "Pointed and projecting; longer than the diameter of the eye when viewed laterally.",
+          "point": [
+            0,
+            0.3,
+            0.92
+          ]
+        },
+        {
+          "label": "Interorbital Space",
+          "description": "Flat to slightly convex; wider than the upper eyelid width.",
+          "point": [
+            0,
+            0.52,
+            0.6
+          ]
+        },
+        {
+          "label": "Tympanum",
+          "description": "Small and partially distinct; may be obscured by surrounding skin texture.",
+          "point": [
+            0.22,
+            0.42,
+            0.5
+          ]
+        }
+      ],
+      "ventral": [
+        {
+          "label": "Ventral Skin",
+          "description": "Granular to shagreen; yellowish or pale with dark mottling in some individuals.",
+          "point": [
+            0,
+            0.1,
+            0.05
+          ]
+        },
+        {
+          "label": "Throat",
+          "description": "Granular; paired vocal sacs absent — Ansonia toads are generally silent or produce faint calls.",
+          "point": [
+            0,
+            0.2,
+            0.62
+          ]
+        },
+        {
+          "label": "Pectoral Region",
+          "description": "Flat chest with fine granular skin; no distinct glandular structures.",
+          "point": [
+            0.1,
+            0.13,
+            0.38
+          ]
+        }
+      ],
+      "limbs": [
+        {
+          "label": "Forelimbs",
+          "description": "Long and slender; adapted for clinging to wet rock surfaces in fast-flowing streams.",
+          "point": [
+            0.38,
+            0.14,
+            0.22
+          ]
+        },
+        {
+          "label": "Fingers",
+          "description": "Four fingers; unwebbed; narrow discs; outer fingers longer, aiding rock grip.",
+          "point": [
+            0.55,
+            0.02,
+            0.68
+          ]
+        },
+        {
+          "label": "Hindlimbs",
+          "description": "Notably long and slender relative to body; key identification feature of the genus Ansonia.",
+          "point": [
+            0.48,
+            0.14,
+            -0.52
+          ]
+        },
+        {
+          "label": "Toes",
+          "description": "Five toes; webbing reduced to basal portion; narrow toe discs present.",
+          "point": [
+            0.6,
+            0.02,
+            -0.88
+          ]
+        },
+        {
+          "label": "Subarticular Tubercles",
+          "description": "Small, single tubercles beneath joints; less prominent than in other bufonids.",
+          "point": [
+            0.5,
+            0.04,
+            -0.68
+          ]
+        }
+      ],
+      "other": [
+        {
+          "label": "Eye",
+          "description": "Medium-sized; horizontal pupil; iris may show coppery or bronze coloration.",
+          "point": [
+            0.18,
+            0.5,
+            0.65
+          ]
+        },
+        {
+          "label": "Nostril",
+          "description": "Small nostrils close to the snout tip; slightly directed upward.",
+          "point": [
+            0.05,
+            0.36,
+            0.9
+          ]
+        },
+        {
+          "label": "Canthus Rostralis",
+          "description": "Distinct angular ridge from nostril to eye; sharply defined.",
+          "point": [
+            0.12,
+            0.44,
+            0.78
+          ]
+        },
+        {
+          "label": "Parotoid Glands",
+          "description": "Elongated parotoid glands present behind each eye; secrete mild toxins as a defense mechanism.",
+          "point": [
+            0.28,
+            0.55,
+            0.32
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "staurois_natator",
+    "scientific": "Staurois natator",
+    "common": "White-spotted Torrent Frog",
+    "family": "Ranidae",
+    "order": "Anura",
+    "habitat": "Rocky fast-flowing mountain streams in primary dipterocarp forest",
+    "distribution": "Borneo (Sabah, Sarawak, Kalimantan), Philippines (Palawan)",
+    "conservation": "Least Concern",
+    "badgeColor": "positive",
+    "description": "A striking torrent frog renowned for its unique 'foot-flagging' courtship display, where males wave their webbed hindfoot to signal rivals and attract mates amid the noise of rushing water. It clings to slick boulders in fast-flowing highland streams and is identified by bold white spots on a dark dorsum.",
+    "model": "models/staurois_natator.glb",
+    "available": true,
+    "external_features": {
+      "dorsal": [
+        {
+          "label": "Dorsal Coloration",
+          "description": "Dark brown to black dorsum adorned with irregular white or cream spots; highly contrasting pattern used in species identification.",
+          "point": [0, 0.62, 0]
+        },
+        {
+          "label": "Snout",
+          "description": "Truncate to slightly rounded snout; shorter than the eye diameter when viewed laterally.",
+          "point": [0, 0.32, 0.9]
+        },
+        {
+          "label": "Interorbital Space",
+          "description": "Flat and wide; approximately equal to the width of the upper eyelid.",
+          "point": [0, 0.55, 0.58]
+        },
+        {
+          "label": "Tympanum",
+          "description": "Distinct and circular; diameter roughly half that of the eye; positioned just posterior to the eye.",
+          "point": [0.26, 0.46, 0.5]
+        }
+      ],
+      "ventral": [
+        {
+          "label": "Ventral Surface",
+          "description": "Pale yellowish-white with dark mottling; smooth to finely granular texture.",
+          "point": [0, 0.11, 0.04]
+        },
+        {
+          "label": "Throat",
+          "description": "White or cream with faint dark flecking; single internal vocal sac present in males.",
+          "point": [0, 0.24, 0.65]
+        },
+        {
+          "label": "Pectoral Region",
+          "description": "Smooth chest with subtle pale yellow wash; no prominent glandular structures.",
+          "point": [0.13, 0.15, 0.4]
+        }
+      ],
+      "limbs": [
+        {
+          "label": "Forelimbs",
+          "description": "Moderately robust; forearm and hand used for gripping wet rock surfaces in torrential streams.",
+          "point": [0.4, 0.16, 0.25]
+        },
+        {
+          "label": "Fingers",
+          "description": "Four unwebbed fingers with well-developed adhesive discs; enlarged discs critical for gripping smooth wet boulders.",
+          "point": [0.6, 0.03, 0.7]
+        },
+        {
+          "label": "Hindlimbs",
+          "description": "Long and muscular; positioned for powerful leaping between boulders and performing the iconic foot-flagging display.",
+          "point": [0.5, 0.16, -0.5]
+        },
+        {
+          "label": "Webbed Feet",
+          "description": "Fully webbed toes — the defining feature used in foot-flagging displays to communicate across noisy torrents.",
+          "point": [0.66, 0.03, -0.85]
+        },
+        {
+          "label": "Subarticular Tubercles",
+          "description": "Single, rounded tubercles beneath toe joints; well-developed to aid traction on wet rock.",
+          "point": [0.54, 0.05, -0.65]
+        }
+      ],
+      "other": [
+        {
+          "label": "Eye",
+          "description": "Large and protuberant; horizontal pupil; bronze to gold iris with fine dark reticulation — aids vision in fast-moving stream environments.",
+          "point": [0.2, 0.52, 0.66]
+        },
+        {
+          "label": "Nostril",
+          "description": "Small nostrils positioned near the tip of the snout; slightly directed upward and outward.",
+          "point": [0.07, 0.37, 0.88]
+        },
+        {
+          "label": "Canthus Rostralis",
+          "description": "Moderately distinct ridge from nostril to the anterior corner of the eye.",
+          "point": [0.13, 0.45, 0.76]
+        },
+        {
+          "label": "White Dorsal Spots",
+          "description": "Scattered cream or white spots on the dorsum; pattern varies individually and is used as a visual signal during male-male competition.",
+          "point": [0.3, 0.6, 0.2]
+        }
+      ]
+    }
+  },
+  {
+    "id": "species_03",
+    "scientific": "Species 03",
+    "common": "Species 03",
+    "family": "—",
+    "order": "Anura",
+    "habitat": "—",
+    "distribution": "—",
+    "conservation": "—",
+    "badgeColor": "grey-6",
+    "description": "Model not yet available.",
+    "model": "models/species_03.glb",
+    "available": false,
+    "external_features": {
+      "dorsal": [],
+      "ventral": [],
+      "limbs": [],
+      "other": []
+    }
+  },
+  {
+    "id": "species_04",
+    "scientific": "Species 04",
+    "common": "Species 04",
+    "family": "—",
+    "order": "Anura",
+    "habitat": "—",
+    "distribution": "—",
+    "conservation": "—",
+    "badgeColor": "grey-6",
+    "description": "Model not yet available.",
+    "model": "models/species_04.glb",
+    "available": false,
+    "external_features": {
+      "dorsal": [],
+      "ventral": [],
+      "limbs": [],
+      "other": []
+    }
+  },
+  {
+    "id": "species_05",
+    "scientific": "Species 05",
+    "common": "Species 05",
+    "family": "—",
+    "order": "Anura",
+    "habitat": "—",
+    "distribution": "—",
+    "conservation": "—",
+    "badgeColor": "grey-6",
+    "description": "Model not yet available.",
+    "model": "models/species_05.glb",
+    "available": false,
+    "external_features": {
+      "dorsal": [],
+      "ventral": [],
+      "limbs": [],
+      "other": []
+    }
+  },
+  {
+    "id": "species_06",
+    "scientific": "Species 06",
+    "common": "Species 06",
+    "family": "—",
+    "order": "Anura",
+    "habitat": "—",
+    "distribution": "—",
+    "conservation": "—",
+    "badgeColor": "grey-6",
+    "description": "Model not yet available.",
+    "model": "models/species_06.glb",
+    "available": false,
+    "external_features": {
+      "dorsal": [],
+      "ventral": [],
+      "limbs": [],
+      "other": []
+    }
+  },
+  {
+    "id": "species_07",
+    "scientific": "Species 07",
+    "common": "Species 07",
+    "family": "—",
+    "order": "Anura",
+    "habitat": "—",
+    "distribution": "—",
+    "conservation": "—",
+    "badgeColor": "grey-6",
+    "description": "Model not yet available.",
+    "model": "models/species_07.glb",
+    "available": false,
+    "external_features": {
+      "dorsal": [],
+      "ventral": [],
+      "limbs": [],
+      "other": []
+    }
+  },
+  {
+    "id": "species_08",
+    "scientific": "Species 08",
+    "common": "Species 08",
+    "family": "—",
+    "order": "Anura",
+    "habitat": "—",
+    "distribution": "—",
+    "conservation": "—",
+    "badgeColor": "grey-6",
+    "description": "Model not yet available.",
+    "model": "models/species_08.glb",
+    "available": false,
+    "external_features": {
+      "dorsal": [],
+      "ventral": [],
+      "limbs": [],
+      "other": []
+    }
+  },
+  {
+    "id": "species_09",
+    "scientific": "Species 09",
+    "common": "Species 09",
+    "family": "—",
+    "order": "Anura",
+    "habitat": "—",
+    "distribution": "—",
+    "conservation": "—",
+    "badgeColor": "grey-6",
+    "description": "Model not yet available.",
+    "model": "models/species_09.glb",
+    "available": false,
+    "external_features": {
+      "dorsal": [],
+      "ventral": [],
+      "limbs": [],
+      "other": []
+    }
+  },
+  {
+    "id": "species_10",
+    "scientific": "Species 10",
+    "common": "Species 10",
+    "family": "—",
+    "order": "Anura",
+    "habitat": "—",
+    "distribution": "—",
+    "conservation": "—",
+    "badgeColor": "grey-6",
+    "description": "Model not yet available.",
+    "model": "models/species_10.glb",
+    "available": false,
+    "external_features": {
+      "dorsal": [],
+      "ventral": [],
+      "limbs": [],
+      "other": []
+    }
+  },
+  {
+    "id": "species_11",
+    "scientific": "Species 11",
+    "common": "Species 11",
+    "family": "—",
+    "order": "Anura",
+    "habitat": "—",
+    "distribution": "—",
+    "conservation": "—",
+    "badgeColor": "grey-6",
+    "description": "Model not yet available.",
+    "model": "models/species_11.glb",
+    "available": false,
+    "external_features": {
+      "dorsal": [],
+      "ventral": [],
+      "limbs": [],
+      "other": []
+    }
+  },
+  {
+    "id": "species_12",
+    "scientific": "Species 12",
+    "common": "Species 12",
+    "family": "—",
+    "order": "Anura",
+    "habitat": "—",
+    "distribution": "—",
+    "conservation": "—",
+    "badgeColor": "grey-6",
+    "description": "Model not yet available.",
+    "model": "models/species_12.glb",
+    "available": false,
+    "external_features": {
+      "dorsal": [],
+      "ventral": [],
+      "limbs": [],
+      "other": []
+    }
+  },
+  {
+    "id": "species_13",
+    "scientific": "Species 13",
+    "common": "Species 13",
+    "family": "—",
+    "order": "Anura",
+    "habitat": "—",
+    "distribution": "—",
+    "conservation": "—",
+    "badgeColor": "grey-6",
+    "description": "Model not yet available.",
+    "model": "models/species_13.glb",
+    "available": false,
+    "external_features": {
+      "dorsal": [],
+      "ventral": [],
+      "limbs": [],
+      "other": []
+    }
+  },
+  {
+    "id": "species_14",
+    "scientific": "Species 14",
+    "common": "Species 14",
+    "family": "—",
+    "order": "Anura",
+    "habitat": "—",
+    "distribution": "—",
+    "conservation": "—",
+    "badgeColor": "grey-6",
+    "description": "Model not yet available.",
+    "model": "models/species_14.glb",
+    "available": false,
+    "external_features": {
+      "dorsal": [],
+      "ventral": [],
+      "limbs": [],
+      "other": []
+    }
+  },
+  {
+    "id": "species_15",
+    "scientific": "Species 15",
+    "common": "Species 15",
+    "family": "—",
+    "order": "Anura",
+    "habitat": "—",
+    "distribution": "—",
+    "conservation": "—",
+    "badgeColor": "grey-6",
+    "description": "Model not yet available.",
+    "model": "models/species_15.glb",
+    "available": false,
+    "external_features": {
+      "dorsal": [],
+      "ventral": [],
+      "limbs": [],
+      "other": []
+    }
+  },
+  {
+    "id": "species_16",
+    "scientific": "Species 16",
+    "common": "Species 16",
+    "family": "—",
+    "order": "Anura",
+    "habitat": "—",
+    "distribution": "—",
+    "conservation": "—",
+    "badgeColor": "grey-6",
+    "description": "Model not yet available.",
+    "model": "models/species_16.glb",
+    "available": false,
+    "external_features": {
+      "dorsal": [],
+      "ventral": [],
+      "limbs": [],
+      "other": []
+    }
+  },
+  {
+    "id": "species_17",
+    "scientific": "Species 17",
+    "common": "Species 17",
+    "family": "—",
+    "order": "Anura",
+    "habitat": "—",
+    "distribution": "—",
+    "conservation": "—",
+    "badgeColor": "grey-6",
+    "description": "Model not yet available.",
+    "model": "models/species_17.glb",
+    "available": false,
+    "external_features": {
+      "dorsal": [],
+      "ventral": [],
+      "limbs": [],
+      "other": []
+    }
+  },
+  {
+    "id": "species_18",
+    "scientific": "Species 18",
+    "common": "Species 18",
+    "family": "—",
+    "order": "Anura",
+    "habitat": "—",
+    "distribution": "—",
+    "conservation": "—",
+    "badgeColor": "grey-6",
+    "description": "Model not yet available.",
+    "model": "models/species_18.glb",
+    "available": false,
+    "external_features": {
+      "dorsal": [],
+      "ventral": [],
+      "limbs": [],
+      "other": []
+    }
+  },
+  {
+    "id": "species_19",
+    "scientific": "Species 19",
+    "common": "Species 19",
+    "family": "—",
+    "order": "Anura",
+    "habitat": "—",
+    "distribution": "—",
+    "conservation": "—",
+    "badgeColor": "grey-6",
+    "description": "Model not yet available.",
+    "model": "models/species_19.glb",
+    "available": false,
+    "external_features": {
+      "dorsal": [],
+      "ventral": [],
+      "limbs": [],
+      "other": []
+    }
+  },
+  {
+    "id": "species_20",
+    "scientific": "Species 20",
+    "common": "Species 20",
+    "family": "—",
+    "order": "Anura",
+    "habitat": "—",
+    "distribution": "—",
+    "conservation": "—",
+    "badgeColor": "grey-6",
+    "description": "Model not yet available.",
+    "model": "models/species_20.glb",
+    "available": false,
+    "external_features": {
+      "dorsal": [],
+      "ventral": [],
+      "limbs": [],
+      "other": []
+    }
+  },
+  {
+    "id": "species_21",
+    "scientific": "Species 21",
+    "common": "Species 21",
+    "family": "—",
+    "order": "Anura",
+    "habitat": "—",
+    "distribution": "—",
+    "conservation": "—",
+    "badgeColor": "grey-6",
+    "description": "Model not yet available.",
+    "model": "models/species_21.glb",
+    "available": false,
+    "external_features": {
+      "dorsal": [],
+      "ventral": [],
+      "limbs": [],
+      "other": []
+    }
+  },
+  {
+    "id": "species_22",
+    "scientific": "Species 22",
+    "common": "Species 22",
+    "family": "—",
+    "order": "Anura",
+    "habitat": "—",
+    "distribution": "—",
+    "conservation": "—",
+    "badgeColor": "grey-6",
+    "description": "Model not yet available.",
+    "model": "models/species_22.glb",
+    "available": false,
+    "external_features": {
+      "dorsal": [],
+      "ventral": [],
+      "limbs": [],
+      "other": []
+    }
+  },
+  {
+    "id": "species_23",
+    "scientific": "Species 23",
+    "common": "Species 23",
+    "family": "—",
+    "order": "Anura",
+    "habitat": "—",
+    "distribution": "—",
+    "conservation": "—",
+    "badgeColor": "grey-6",
+    "description": "Model not yet available.",
+    "model": "models/species_23.glb",
+    "available": false,
+    "external_features": {
+      "dorsal": [],
+      "ventral": [],
+      "limbs": [],
+      "other": []
+    }
+  },
+  {
+    "id": "species_24",
+    "scientific": "Species 24",
+    "common": "Species 24",
+    "family": "—",
+    "order": "Anura",
+    "habitat": "—",
+    "distribution": "—",
+    "conservation": "—",
+    "badgeColor": "grey-6",
+    "description": "Model not yet available.",
+    "model": "models/species_24.glb",
+    "available": false,
+    "external_features": {
+      "dorsal": [],
+      "ventral": [],
+      "limbs": [],
+      "other": []
+    }
+  },
+  {
+    "id": "species_25",
+    "scientific": "Species 25",
+    "common": "Species 25",
+    "family": "—",
+    "order": "Anura",
+    "habitat": "—",
+    "distribution": "—",
+    "conservation": "—",
+    "badgeColor": "grey-6",
+    "description": "Model not yet available.",
+    "model": "models/species_25.glb",
+    "available": false,
+    "external_features": {
+      "dorsal": [],
+      "ventral": [],
+      "limbs": [],
+      "other": []
+    }
+  },
+  {
+    "id": "species_26",
+    "scientific": "Species 26",
+    "common": "Species 26",
+    "family": "—",
+    "order": "Anura",
+    "habitat": "—",
+    "distribution": "—",
+    "conservation": "—",
+    "badgeColor": "grey-6",
+    "description": "Model not yet available.",
+    "model": "models/species_26.glb",
+    "available": false,
+    "external_features": {
+      "dorsal": [],
+      "ventral": [],
+      "limbs": [],
+      "other": []
+    }
+  },
+  {
+    "id": "species_27",
+    "scientific": "Species 27",
+    "common": "Species 27",
+    "family": "—",
+    "order": "Anura",
+    "habitat": "—",
+    "distribution": "—",
+    "conservation": "—",
+    "badgeColor": "grey-6",
+    "description": "Model not yet available.",
+    "model": "models/species_27.glb",
+    "available": false,
+    "external_features": {
+      "dorsal": [],
+      "ventral": [],
+      "limbs": [],
+      "other": []
+    }
+  },
+  {
+    "id": "species_28",
+    "scientific": "Species 28",
+    "common": "Species 28",
+    "family": "—",
+    "order": "Anura",
+    "habitat": "—",
+    "distribution": "—",
+    "conservation": "—",
+    "badgeColor": "grey-6",
+    "description": "Model not yet available.",
+    "model": "models/species_28.glb",
+    "available": false,
+    "external_features": {
+      "dorsal": [],
+      "ventral": [],
+      "limbs": [],
+      "other": []
+    }
+  }
+]

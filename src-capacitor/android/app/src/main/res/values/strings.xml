@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">com.demo.app</string>
+    <string name="title_activity_main">com.demo.app</string>
+    <string name="package_name">demo.app.mabulig</string>
+    <string name="custom_url_scheme">demo.app.mabulig</string>
+</resources>
