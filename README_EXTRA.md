@@ -1,0 +1,2 @@
+## 1. npm run dev — runs the "dev" script in your package.json (which is quasar dev). Inside an npm script, quasar automatically resolves to the local copy in node_modules.## 
+## 2. npx quasar dev — npx directly finds and runs the local quasar binary.
